@@ -1,4 +1,4 @@
-const CACHE = 'coleman-equipment-v8';
+const CACHE = 'coleman-equipment-v10';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable.png'];
 
 self.addEventListener('install', function (e) {
